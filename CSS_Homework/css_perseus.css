@@ -1,0 +1,58 @@
+
+#topsearch {position: absolute;
+        top: 10px;
+        right:10px;
+        font-family:"Verdana";
+        font-size: 13px;}
+
+#topnav {background-color: darkgrey;
+        border-style: solid;
+        border-color: black;
+        border-width: thin;
+        width: 1280x;
+}
+
+#box {background-color:lightgray;
+        border-style: solid;
+        border-color: darkred;
+        border-width: 3px;
+        width: 500px;
+        position: absolute;
+        left:400px;
+        right:400px;
+        padding-left: 10px;
+        padding-right:10px;
+}
+
+
+#title {font-family:"Garamond";
+        font-size:9px;
+        position:absolute;
+        top:5px;
+        left:100px;}
+
+.topnav_button {color: whitesmoke;
+padding: 0 15px 0 15px;
+font-family: "Verdana";
+font-weight: lighter;
+font-size:13px;}
+
+.box_text{text-align:center;
+        font-size: 14px;
+        font-family: "Garamond";
+}
+
+#box_title{text-align:center;
+font-family: "Verdana";
+font-size:16px;
+font-weight:lighter;}
+
+#box_footnote{text-align:center;
+font-family:"Verdana";
+font-size:10px;}
+
+#mainsearch{position: absolute;
+padding-left:50px;
+padding-top:10px;
+font-family: "Verdana";
+font-size:13px;}
